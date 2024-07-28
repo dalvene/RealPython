@@ -1,0 +1,7 @@
+/.*/
+py3venv
+env
+*.pyc
+__pycache__/
+.DS_Store
+.vs
